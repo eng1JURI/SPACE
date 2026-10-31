@@ -1,0 +1,16 @@
+.git
+node_modules
+vendor
+.env
+.env.*
+!.env.example
+public/hot
+bootstrap/cache/*.php
+public/build
+storage/logs/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+database/*.sqlite
+Dockerfile
+docker-compose.yml
